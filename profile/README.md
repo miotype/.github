@@ -1,4 +1,4 @@
-### Speak, don't type.
+### Talk. It types.
 
 **MioType** is voice typing and instant translation for the Mac. Press <kbd>Fn</kbd>, talk, press <kbd>Fn</kbd> again, and the words land at your cursor: in a terminal, your editor, a coding agent's prompt, or any other app.
 
